@@ -6,14 +6,14 @@ It can be used either imported as a module, to be used in your own code.  Or the
 
 # Usage:
 
-Converting from the command line:
+**Converting from the command line:**
 
     python3.8 converter.py path/to/file.srm
     python3.8 converter.py path/to/file.sav
 
 If your path contains spaces, use `"``"`.  The file type will automatically be detected and converted.
 
-As a module:
+**As a module:**
 
 Only one function is provided.  The `convert(filename)` command.
 
