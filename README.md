@@ -6,7 +6,7 @@ It can be used either imported as a module, to be used in your own code.  Or the
 
 # Usage:
 
-`converter.py`:
+Converting from the command line:
 
     python3.8 converter.py path/to/file.srm
     python3.8 converter.py path/to/file.sav
